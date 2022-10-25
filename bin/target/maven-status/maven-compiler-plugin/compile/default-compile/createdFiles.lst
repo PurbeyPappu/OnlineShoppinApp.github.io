@@ -1,0 +1,8 @@
+com\mycompany\e\commerce\servlets\LoginServlet.class
+com\mycompany\e\commerce\servlets\LogoutServlet.class
+com\mycompany\e\commerce\entities\Category.class
+com\mycompany\e\commerce\helper\FactoryProvider.class
+com\mycompany\e\commerce\entities\Product.class
+com\mycompany\e\commerce\entities\User.class
+com\mycompany\e\commerce\dao\UserDao.class
+com\mycompany\e\commerce\servlets\RegisterServlets.class
